@@ -1,4 +1,5 @@
 const page_content_wraper = document.querySelector('.page_content_wraper');
+const page = document.querySelector('.page');
 const side_nav_bar = document.querySelector('.side_nav_bar');
 const theme_side_nav_bar = document.querySelector('.theme_side_nav_bar');
 const theme_pointer = document.querySelector('.theme_pointer');
