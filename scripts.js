@@ -12,7 +12,7 @@ const links = [
   ,'https://eladshayo.github.io/music/'
   ,'https://eladshayo.github.io/wiki/'
   ,'https://eladshayo.github.io/sell-house/'
-  ,'https://eladshayo.github.io/protpholio/'
+  ,'https://eladshayo.github.io/portfolio/'
 ];
 const page_content = page_content_wraper.children[1];
 f();
